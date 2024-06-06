@@ -1,0 +1,428 @@
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:03:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 93 ms Request ID: [3224be68-2c98-47db-856e-0d757b74e6b0]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:03:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [26712338-9316-4fd3-b6b8-a52de9352907]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:08:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 81 ms Request ID: [3aacf743-b733-4be9-9c21-aa33a44bd6e9]
+
+Started GET /favicon.ico for :: ::1 at Wed Jun 05 2024 20:08:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [84ac0afc-baa4-4dd8-bcbb-d7ffa63358d3]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:10:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 98 ms Request ID: [d75122a3-2b66-4f15-8dd4-9caa17dfbe97]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:10:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [5eb2a7cd-a12c-4e47-90aa-dfd99c6665f8]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:10:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [8e87e3b3-8518-434d-b2f0-c1c83b82a20b]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:15:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 85 ms Request ID: [c9c82cbe-12b0-4210-bd64-5bf6a358ca0d]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:15:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [7f2cf01a-d5cb-4ac3-9094-666141ec1ce5]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:16:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 10 ms Request ID: [3a6d174d-11ab-444b-906f-ea9dc56af28b]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:16:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [c621aca2-ccc5-4df6-9e7d-f04ee23212f0]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:16:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 92 ms Request ID: [4e59508a-4837-4714-add8-0dec41604e7a]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:16:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [bfd6ea54-3032-47ce-8cf2-390da8f5dfa5]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:21:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 99 ms Request ID: [558c3778-b6fc-45d5-91a4-1f3db2b6fe42]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:21:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [db4339b7-4bf7-4faf-95b2-8dae36406284]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:21:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:21:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 71 ms Request ID: [9da65f65-92e5-41d9-a9c7-5356b5495828]
+
+Completed: 304 message:  Time response: 69 ms Request ID: [ccea92cc-5d4a-453b-939b-f0f57ecf9eb1]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [520718d5-1bc4-446e-a851-3ceb81ea7ecd]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [d24ede9f-23db-48c3-b091-3684114f66cd]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [68cf242f-5d87-4755-931d-7a4083cef463]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [2c2cc305-cb1a-4cfa-a4dc-b1c47738bfc8]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [d4c89997-790d-4a38-b27e-ff8f696ff7c4]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:22:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [ba297430-2664-4f25-83ef-dc9a6c819dbf]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:28:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 98 ms Request ID: [87fc1cd9-bcc0-4310-8f41-629393918f11]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:28:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [28c49e35-6e26-4ff2-b69d-0c72631e9b47]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:33:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:33:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 54 ms Request ID: [fdf47f1b-6a48-4aa9-a1e1-9de194eb4680]
+
+Completed: 304 message:  Time response: 67 ms Request ID: [3d822568-b408-48bf-a176-74bd54e7edce]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:38:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 85 ms Request ID: [45bdc8ec-cdd9-4e0a-9f84-db4abefc6330]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:38:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [cbe3406e-3cb8-4f5a-a2f9-1477c7e87f43]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:44:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:44:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 56 ms Request ID: [d2ace524-ee5a-4afb-8d66-ebd8d552df78]
+
+Completed: 304 message:  Time response: 63 ms Request ID: [15b905b1-6d7f-4a3a-866d-1486d22f2936]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:54:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:54:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 86 ms Request ID: [679a9940-72d7-410b-bc7a-f477b48bb8ce]
+
+Completed: 304 message:  Time response: 60 ms Request ID: [a0d986c9-5c2d-4380-9fc8-8c5febef318e]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 90 ms Request ID: [a65882fe-b784-4f1a-82f4-12b8e254bb82]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [5cf8485a-dcff-42c2-80d8-b28a637c575c]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [b6592c1b-056f-4ef6-b4d5-e1db39ee623f]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [77b9c843-4907-43af-9e61-66e2ccc92229]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [adc0e843-544e-432e-b08e-f14874a4635c]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:55:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [806aba58-d3cd-4680-9e67-44600769798e]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:56:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:56:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 64 ms Request ID: [605ac17f-488f-485c-9679-8e9e1f0fb6dc]
+
+Completed: 304 message:  Time response: 70 ms Request ID: [88e06613-3e6a-4769-94a6-124774f61d87]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:56:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 81 ms Request ID: [4013a28e-ed0a-4573-a063-b5781f7b06dc]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 20:56:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [7f40d591-96eb-4ef1-bc58-d25ccdc6021c]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:00:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 87 ms Request ID: [87eae24f-725a-4c4f-b716-8afd0f5c0cf3]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:00:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [74abebba-6b0b-478c-944a-c8df0e902740]
+
+Started OPTIONS /posts/15 for :: ::1 at Wed Jun 05 2024 21:00:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [c7750251-4f7b-4924-a16f-d06b8cb17dd3]
+
+Started DELETE /posts/15 for :: ::1 at Wed Jun 05 2024 21:00:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [e034e616-e831-4f3a-99c3-00bf8c9b17aa]
+
+Started DELETE /posts/15 for :: ::1 at Wed Jun 05 2024 21:00:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [4af3c477-0926-43ec-a902-6a267d922f06]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:04:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:04:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 92 ms Request ID: [90cd91d7-cb23-447f-a3c2-73bc94c9e9da]
+
+Completed: 200 message:  Time response: 87 ms Request ID: [fee63d0d-c29d-442d-95fd-c3c6b9710c4f]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [daed7596-bfc1-407b-98dc-a1681d3a2b03]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [a201fd76-dd05-408d-a6fb-0dfbcede3a43]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 106 ms Request ID: [73b3591a-0f64-436d-bf8b-6f5a16546a14]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [89ce333f-17b2-43ea-a30c-b88572bf77c9]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [7cc12735-2e64-4c53-8399-d927dd828f30]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [c95ffb92-0633-4a63-9740-7bbb5f99df5e]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 2 ms Request ID: [d297f90e-5be8-480f-96f9-cea219c49169]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:05:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [8f095424-4546-423e-828d-8690984eaca9]
+
+Started OPTIONS /posts/like/15 for :: ::1 at Wed Jun 05 2024 21:06:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 2 ms Request ID: [cb1b30ef-b527-460d-851f-5faf83fcfcd8]
+
+Started PUT /posts/like/15 for :: ::1 at Wed Jun 05 2024 21:06:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [2666fe5e-61a8-4b57-a913-dd44e2998280]
+
+Started PUT /posts/like/15 for :: ::1 at Wed Jun 05 2024 21:06:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 2 ms Request ID: [8cdefc8c-9a22-4eb1-9a3a-050b09a10f1e]
+
+Started OPTIONS /posts/15 for :: ::1 at Wed Jun 05 2024 21:06:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 2 ms Request ID: [f619e428-aa22-4be4-bdbf-22d681506651]
+
+Started DELETE /posts/15 for :: ::1 at Wed Jun 05 2024 21:06:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 2 ms Request ID: [8f5605d5-0a32-4d4f-b3a7-a86d8966724e]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:07:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:07:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 98 ms Request ID: [6b2633cc-28b0-465e-b716-12da6d0a192b]
+
+Completed: 304 message:  Time response: 83 ms Request ID: [c01ddf8d-1c12-4539-a694-719b2a74abcf]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:07:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [f6edd99f-624b-446b-8b4a-5989cf120f20]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:07:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [5dc72335-31b3-4bff-ad81-b61671c7f4a0]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:08:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [e935adcf-9843-43b1-8537-4ecc59928ee3]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:08:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 2 ms Request ID: [b51f0c71-9d28-470a-96ff-021c5b0f21f5]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:08:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 2 ms Request ID: [e1a7b375-3cc9-434a-aa66-14212e302eb1]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:08:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [bfce635a-42f9-4640-894c-85451e99a58a]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 97 ms Request ID: [40509c42-2883-428e-8347-b456708c465c]
+
+Completed: 200 message:  Time response: 96 ms Request ID: [0a564c4f-92c2-4a73-b9de-501364c001d1]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [5dafe0ad-833c-4350-bcad-d3cca075c5d9]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [6f745256-cffa-42c0-ac97-6ef24aca9089]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [91b7bd6e-e337-4d5d-9113-84b5cadc2e21]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 2 ms Request ID: [f99768d9-ca84-4849-8af4-469bb7b285ec]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 117 ms Request ID: [0d7e4816-8049-4dc8-a168-c433c91b7509]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:09:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [7c4fa261-b04f-4518-9c25-673d87bca85d]
+
+Started OPTIONS /posts for :: ::1 at Wed Jun 05 2024 21:10:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 2 ms Request ID: [3674a0b8-6e29-4850-98e8-97339195daee]
+
+Started POST /posts for :: ::1 at Wed Jun 05 2024 21:10:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 73 ms Request ID: [92a0ffde-9a66-4196-8cc9-0165f1c11e1d]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:10:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [374b9939-bf4d-47ee-97cc-252ba279e1c5]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:10:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:10:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 50 ms Request ID: [c6bf1e58-52a6-414a-a939-57ea12273469]
+
+Completed: 304 message:  Time response: 53 ms Request ID: [4ca343d0-1a61-4abd-a4d5-cb96a08010e6]
+
+Started OPTIONS /posts for :: ::1 at Wed Jun 05 2024 21:11:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [80fdca1e-220a-4de9-b870-4af557a012c2]
+
+Started POST /posts for :: ::1 at Wed Jun 05 2024 21:11:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 5 ms Request ID: [2a8d8e1a-5476-4494-a5ab-a5aa786dc27c]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:11:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [2a922669-bbd6-4cdd-984d-04055fd26b5e]
+
+Started OPTIONS /posts/15 for :: ::1 at Wed Jun 05 2024 21:11:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [c0ad9412-c9f8-47ac-bb46-f99fce62951b]
+
+Started DELETE /posts/15 for :: ::1 at Wed Jun 05 2024 21:11:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [4f2526b2-2fc9-49af-92ab-a69e32dc9560]
+
+Started OPTIONS /posts/17 for :: ::1 at Wed Jun 05 2024 21:11:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 2 ms Request ID: [98ca71c9-f0ba-4705-8fec-040b2c7cbe17]
+
+Started DELETE /posts/17 for :: ::1 at Wed Jun 05 2024 21:11:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [ffbdd47f-337e-4854-97d4-23130db87264]
+
+Started DELETE /posts/15 for :: ::ffff:127.0.0.1 at Wed Jun 05 2024 21:12:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [14996958-627e-483a-9fd5-41ef8eaeccc6]
+
+Started OPTIONS /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [f300fa66-24dc-45ed-bd7f-779c34f7f79e]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [c3c3a71a-97cc-4fde-b71a-b6935bc85d0c]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 2 ms Request ID: [9d18305e-df23-4bed-b470-fb286fb41557]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [1c526386-1ba3-47b4-9d8e-2fcfd698f5bc]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [f6b911a4-81a6-4f37-b53d-c88ce996bfdc]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:15:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [94026bed-14d8-4ee9-ae50-6007d72fe7cc]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:15:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 69 ms Request ID: [4fe825f7-999d-4419-96c1-ff4e7113d0fb]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:15:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [4f27c3a7-fb78-484c-83a8-c2a314b0d32d]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:17:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 114 ms Request ID: [5bd762ce-a280-4515-9472-b21486964f1d]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:18:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [7e890bad-9399-48bb-adf7-e266760ea3d1]
+
+Started OPTIONS /posts/16 for :: ::1 at Wed Jun 05 2024 21:18:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [46b8fc7c-22fa-4a4b-b7ad-ea27f3d91657]
+
+Started DELETE /posts/16 for :: ::1 at Wed Jun 05 2024 21:18:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 11 ms Request ID: [3572ea09-48a5-4ba0-a409-81ef4fa5b9dc]
+
+Started GET /posts for :: ::1 at Wed Jun 05 2024 21:18:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [78cafc0a-a8c8-45c1-85b2-7035a2490b7d]
+
+Started OPTIONS /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:18:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 204 message:  Time response: 3 ms Request ID: [e3b6956c-29bb-446e-b42b-98a53fec02ee]
+
+Started PUT /posts/like/17 for :: ::1 at Wed Jun 05 2024 21:18:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [5f3777a1-4486-4ced-b69f-05c542abeb8d]
