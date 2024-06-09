@@ -1,8 +1,13 @@
 import { Router } from 'express'
-import { miIndex } from '../controllers/likemeController.js'
+import { getPosts, getPostsId, postPosts, uptadePosts, deletePosts } from '../controllers/likemeController.js'
 
 const miRuta = Router()
 
-miRuta.get('/', miIndex)
+miRuta.get('/posts', getPosts)
+miRuta.get('/posts/:id', getPostsId)
+miRuta.post('/posts', postPosts)
+miRuta.put('/posts/like/:id', uptadePosts)
+miRuta.delete('/posts/:id', deletePosts)
+
 
 export default miRuta

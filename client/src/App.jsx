@@ -11,6 +11,8 @@ function App() {
   const [descripcion, setDescripcion] = useState("");
   const [posts, setPosts] = useState([]);
 
+  // le recuerdo que este lo cambie para que coincidiera con mi backend ya que era mas facil cambiarlo alli 
+
   const getPosts = async () => {
     const { data } = await axios.get(urlBaseServer + "/posts");
     setPosts([...data.message]);
@@ -22,13 +24,13 @@ function App() {
     getPosts();
   };
 
-  // este método se utilizará en el siguiente desafío
+  // el modo en el que realice el put fue de modo que se aumentara los likes
   const like = async (id) => {
     await axios.put(urlBaseServer + `/posts/like/${id}`);
     getPosts();
   };
 
-  // este método se utilizará en el siguiente desafío
+  // listo desde el anterior desafio
   const eliminarPost = async (id) => {
     await axios.delete(urlBaseServer + `/posts/${id}`);
     getPosts();
